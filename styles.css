@@ -19,13 +19,13 @@
 }
 
 .box3 {
-    width: 420px;
-    height: 100px;
+    width: 470px;
+    /*height: 100px;*/
     background-color: rgb(175, 51, 2);
     border: 2px solid blue;
     padding: 10px;
     margin: 10px;
-
+    height: 100%;
 }
 
 .box4 {
