@@ -53,6 +53,28 @@
 }
 
 
+.box6 {
+  width: 490px;
+    /*height: 100px;*/
+    background-color: rgb(15, 171, 15);
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 10px;
+    height: 100%;
+    /*width: 40%;*/
+
+    
+}
+
+@media screen and (max-width: 600px) {
+  div.box6 {
+    float: none;
+    height: 10%;
+    width: 40%;
+  }
+}
+
+
 
 
 * {
